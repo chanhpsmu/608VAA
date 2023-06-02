@@ -9,7 +9,7 @@ website:
     - text: "Take-home Exercise"
       menu:
         - text: "Take-home Exercise 2" 
-        
+          href: "Take-home_Ex/Take-home_Ex02/TakeHome02.html"
      
     right:
       - href: index.qmd
